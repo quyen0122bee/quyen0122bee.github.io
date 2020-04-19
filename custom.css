@@ -1,0 +1,118 @@
+/**** ABOUT ****/
+li#about-link a.nav-current {
+  border-color: #f66152;
+}
+li#about-link a.nav-current h3,
+li#about-link a.nav-current i {
+  color: #f66152;
+}
+#about,
+#about .cat-pages-title h2 {
+  background-color: #f66152;
+}
+.single-about-page .menu a:hover {
+  color: #f66152;
+}
+.single-about-page .sidebar a:hover {
+  color: #f66152;
+}
+/**** RESUME ****/
+li#resume-link a.nav-current {
+  border-color: #d7af0d;
+}
+li#resume-link a.nav-current h3,
+#resume-link a.nav-current i {
+  color: #d7af0d;
+}
+#resume,
+#resume .cat-pages-title h2 {
+  background-color: #d7af0d;
+}
+.timeline h3 {
+  border-bottom-color: #f6db6d;
+}
+.timeline-left ul {
+  border-right-color: #f6db6d;
+}
+.timeline ul li span:before {
+  border-color: #f6db6d;
+}
+.timeline ul li span:after {
+  background-color: #f6db6d;
+}
+.single-resume-page .menu a:hover {
+  color: #d7af0d;
+}
+.single-resume-page .sidebar a:hover {
+  color: #d7af0d;
+}
+/**** PORTFOLIO ****/
+li#portfolio-link a.nav-current {
+  border-color: #3498db;
+}
+li#portfolio-link a.nav-current h3,
+#portfolio-link a.nav-current i {
+  color: #3498db;
+}
+#portfolio,
+#portfolio .cat-pages-title h2 {
+  background-color: #3498db;
+}
+.quotes ul {
+  border-color: #a0cfee;
+}
+.quotes ul:before {
+  background-color: #3498db;
+}
+ol.bjqs-markers li a {
+  background-color: #a0cfee;
+}
+ol.bjqs-markers li.active-marker {
+  border-color: #a0cfee;
+}
+.single-portfolio-page .menu a:hover {
+  color: #3498db;
+}
+.single-portfolio-page .sidebar a:hover {
+  color: #3498db;
+}
+/**** BLOG ****/
+li#blog-link a.nav-current {
+  border-color: #2cc16b;
+}
+li#blog-link a.nav-current h3,
+#blog-link a.nav-current i {
+  color: #2cc16b;
+}
+#blog,
+#blog .cat-pages-title h2,
+.blog-single-title h2 {
+  background-color: #2cc16b;
+}
+.ajax-popup {
+  background-color: #2cc16b;
+}
+.single-blog-page .menu a:hover {
+  color: #2cc16b;
+}
+.single-blog-page .sidebar a:hover {
+  color: #2cc16b;
+}
+/**** CONTACT ****/
+li#contact-link a.nav-current {
+  border-color: #424242;
+}
+li#contact-link a.nav-current h3,
+#contact-link a.nav-current i {
+  color: #424242;
+}
+#contact,
+#contact .cat-pages-title h2 {
+  background-color: #424242;
+}
+.single-contact-page .menu a:hover {
+  color: #424242;
+}
+.single-contact-page .sidebar a:hover {
+  color: #424242;
+}
